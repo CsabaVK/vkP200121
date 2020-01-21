@@ -1,0 +1,8 @@
+{
+    "databaseConnect" : {
+        "userName" : "root",
+        "password" : "1024",
+        "hostName" : "localhost",
+        "databaseName" : "photos"
+    }
+}
